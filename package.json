@@ -1,0 +1,19 @@
+{
+  "name": "oh-snip-snap",
+  "version": "1.0.0",
+  "description": "Module 20 React Work - Photo-Port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanway28/Oh-Snip-Snap.git"
+  },
+  "author": "smc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanway28/Oh-Snip-Snap/issues"
+  },
+  "homepage": "https://github.com/seanway28/Oh-Snip-Snap#readme"
+}
